@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ganesh Tata
-- 👀 I’m interested in Accelerating Neural Network Training, Model Calibration, Subset Selection.
+- 👀 I’m interested in Accelerating Neural Network Training, Model Calibration, Subset Selection and Data-Centric AI.
+- 👨‍💻 Contributing to [cleanlab](https://github.com/cleanlab/cleanlab). 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me - -->
